@@ -1,1 +1,2 @@
-# GIT-Venka
+This code implements an algorithm to identify Pareto-optimal points in a set of 2-dimensional points on a plane. A Pareto-optimal point is one that is not dominated by any other point in both the X and Y dimensions. The algorithm efficiently computes the Pareto-optimal points using a divide-and-conquer approach with a time complexity of O(n log n). Simply input your points, and the code will return the top-right staircase of Pareto-optimal points.
+
