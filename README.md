@@ -1,4 +1,4 @@
-Here's a `README.md` file that you can copy-paste directly into your GitHub repository:
+
 
 ```markdown
 # Meta-Llama-3.1-8B-Instruct Memory Estimation
@@ -9,7 +9,7 @@ This repository provides a detailed estimation of GPU memory requirements for ge
 
 To estimate the GPU memory required, the following formula is used:
 
-```markdown
+
 Total Memory (GB) = (M * P / 10^9) + (T_in * L * H * A * P / 10^9) + (T_out * L * H * A * P / 10^9) + Overhead
 ```
 
