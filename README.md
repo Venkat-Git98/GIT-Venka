@@ -60,17 +60,5 @@ For generating 4000 output tokens from a 4000-token input using **Meta-Llama-3.1
 
 A **GPU with at least 48 GB to 80 GB of memory** (such as an NVIDIA A100 80GB) is recommended for this task.
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-```
-
-### Instructions:
-
-1. **Copy** the above content.
-2. **Create** a new file named `README.md` in your GitHub repository.
-3. **Paste** the copied content into the `README.md` file.
-4. **Commit** the file to your repository.
-
-This `README.md` provides a clear and detailed explanation of how to estimate GPU memory requirements for the Meta-Llama-3.1-8B-Instruct model and is formatted appropriately for GitHub.
